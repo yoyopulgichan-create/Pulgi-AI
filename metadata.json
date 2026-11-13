@@ -1,0 +1,6 @@
+{
+  "name": "PULGI AI — Your Little AI Friends",
+  "description": "A world of infinite AI friends and creativity. Create unlimited Pulgi companions, chat by text or voice, collaborate in groups, and build websites, games, music, videos, code, and files together.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
